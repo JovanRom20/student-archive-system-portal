@@ -10,7 +10,7 @@ A digital repository system designed for Caraga State University to manage, stor
 
 \## Setup Instructions
 
-1\. Clone the repository: `git clone \[Your-Repo-URL]`
+1\. Clone the repository: `git clone \[https://github.com/JovanRom20/student-archive-system-portal]`
 
 2\. Import the database:
 
